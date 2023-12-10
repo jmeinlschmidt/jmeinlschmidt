@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Jakub (庫布). I am a front-end engineer with 7+ years of experience. Mostly focused on Angular and TypeScript development. I enjoy working with technologies such as RxJS for reactive programming, Nx Workspace, NgRx or Elf.
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/)
+- 💬 I write about Angular, visit my [blog](https://blog.jakb.cz/)!
+- ⚡ Fun fact: Functional programming (λ, Lisp) = 🤍
+
+In my research field, I focus on applications of graph databases, like Neo4j, to analyze highly interconnected domains. 
