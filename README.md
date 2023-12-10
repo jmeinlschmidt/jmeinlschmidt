@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Jakub (庫布). I am a front-end engineer with 7+ years of experience. Mostly focused on Angular and TypeScript development. I enjoy working with technologies such as RxJS for reactive programming, Nx Workspace, NgRx or Elf.
+My name is Jakub (庫布). I am a front-end engineer with 7+ years of experience. Mostly focused on Angular and TypeScript development. I enjoy working with technologies such as RxJS for reactive programming, NgRx or Elf for state management and Nx Workspace for large-scale applications.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/)
 - 💬 I write about Angular, visit my [blog](https://blog.jakb.cz/)!
