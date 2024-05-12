@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Jakub (庫布). I am a software engineer focused on front-end work, with 7+ years of experience. Mostly interested in Angular and TypeScript development. I enjoy working with technologies such as RxJS for reactive programming, NgRx or Elf for state management and Nx Workspace for large-scale applications.
+Software engineer focused on front-end work, with 7+ years of experience. Mostly interested in Angular and TypeScript development. I enjoy working with technologies such as RxJS for reactive programming, NgRx or Elf for state management and Nx Workspace for large-scale applications.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/)
-- 💬 I write about Angular, visit my [blog](https://blog.jakb.cz/)!
+- 💬 I write about Angular; visit my [blog](https://blog.jakb.cz/)!
 - ⚡ Fun fact: Functional programming (λ, Lisp) = 🤍
 
 In my research field, I focus on applications of graph databases like Neo4j.
