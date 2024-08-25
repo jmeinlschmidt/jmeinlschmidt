@@ -22,3 +22,13 @@ Software engineer focused on front-end work, with 7+ years of experience, mostly
 - ⚡ Fun fact: Functional programming (λ, Lisp) = 🤍
 
 In my research field, I focus on applications of graph databases like Neo4j.
+
+
+### Open Source
+
+- [eslint-config-angular](https://github.com/jmeinlschmidt/eslint-config-angular)
+- [rxjs-fsm](https://github.com/jmeinlschmidt/rxjs-fsm)
+
+I participated with a couple of small contributions:
+- [Angular ESLint](https://github.com/angular-eslint/angular-eslint)
+- [Elf](https://github.com/ngneat/elf)
