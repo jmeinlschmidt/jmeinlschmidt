@@ -26,9 +26,12 @@ In my research field, I focus on applications of graph databases like Neo4j.
 
 ### Open Source
 
+I authored the following NPM packages:
+
 - [eslint-config-angular](https://github.com/jmeinlschmidt/eslint-config-angular)
 - [rxjs-fsm](https://github.com/jmeinlschmidt/rxjs-fsm)
 
-I participated with a couple of small contributions:
+and participated with a couple of small contributions:
+
 - [Angular ESLint](https://github.com/angular-eslint/angular-eslint)
 - [Elf](https://github.com/ngneat/elf)
