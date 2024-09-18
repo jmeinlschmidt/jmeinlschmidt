@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software engineer focused on front-end work, with 7+ years of experience, mostly interested in Angular and TypeScript development. I enjoy working with technologies such as RxJS for reactive programming, NgRx and Nx Workspace for large-scale applications.
+Software engineer focused on front-end work, ostly interested in Angular and TypeScript development. I enjoy working with technologies such as RxJS, NgRx, and especially Nx Workspace.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/)
 - 💬 I write about Angular; visit my [blog](https://blog.jakb.cz/)!
