@@ -34,4 +34,5 @@ I authored and maintain the following NPM packages:
 and participated with a couple of small contributions:
 
 - [Angular ESLint](https://github.com/angular-eslint/angular-eslint)
+- [ngxtension](https://github.com/ngxtension/ngxtension-platform)
 - [Elf](https://github.com/ngneat/elf)
